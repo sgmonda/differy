@@ -1,0 +1,23 @@
+{
+	"name": "diff",
+	"version": "0.0.1",
+	"description": "Dynamic Diff",
+	"keywords": ["input", "console", "output", "terminal", "system"],
+	"homepage": "",
+	"license": "MIT",
+	"main": "main.js",
+	"author": {
+		"name": "Sergio Garcia Mondaray <sgmonda@gmail.com> (http://www.sgmonda.com)"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sgmonda/stdio"
+	},
+	"engines": {
+		"node": "*"
+	},
+	"readmeFilename": "README.md",
+	"scripts": {
+		"test": "node test/tests.js"
+	}
+}

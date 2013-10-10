@@ -1,0 +1,5 @@
+{
+	"addPrefix": "+ > ",
+	"deletedPrefix": "- >",
+	"modifiedPrefix": "~ >"
+}
